@@ -1,3 +1,2 @@
 # JIJINHAO
-营销工具
-本项目由一部九组共同维护
+The project is maintained by the ninth group of the first sector.
